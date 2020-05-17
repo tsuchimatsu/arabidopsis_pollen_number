@@ -210,7 +210,6 @@ for(i in 1:2){
   perm0.05 <- numeric(0)
   perm0.025 <- numeric(0)
   perm0.01 <- numeric(0)
-  perm0.005 <- numeric(0)
   
   gwas_res <- gwas_flower[[i]]
   
